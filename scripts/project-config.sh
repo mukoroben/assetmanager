@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Name of Schema
-SCHEMA_NAME=CHANGE_ME
+SCHEMA_NAME=WKSP_COZ
 # Name of default workspace that applications are associated with
-APEX_WORKSPACE=CHANGE_ME
+APEX_WORKSPACE=COZ
 # Comma delimited list of APEX Applications to export. Ex: 100,200
-APEX_APP_IDS=CHANGE_ME
+APEX_APP_IDS=118
 
 
 # File extensions
